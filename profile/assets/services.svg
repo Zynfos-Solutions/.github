@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
   <defs>
-    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#F28C28"/><stop offset=".5" stop-color="#F6A55B"/><stop offset="1" stop-color="#F28C28"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#2F80FF"/><stop offset=".5" stop-color="#9AD0FF"/><stop offset="1" stop-color="#2F80FF"/></linearGradient>
     <style>
       .t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
       .n{font-size:13px;letter-spacing:3px;fill:#F28C28}

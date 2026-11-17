@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#08163A"/><stop offset="1" stop-color="#0B1F4D"/>
+      <stop offset="0" stop-color="#050D24"/><stop offset="1" stop-color="#0B1F4D"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F28C28"/><stop offset=".5" stop-color="#F6A55B"/><stop offset="1" stop-color="#F28C28"/>
+      <stop offset="0" stop-color="#2F80FF"/><stop offset=".5" stop-color="#9AD0FF"/><stop offset="1" stop-color="#2F80FF"/>
     </linearGradient>
     <radialGradient id="glow" cx=".5" cy=".5" r=".5">
-      <stop offset="0" stop-color="#5B2DD1" stop-opacity=".45"/><stop offset="1" stop-color="#F28C28" stop-opacity="0"/>
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity=".45"/><stop offset="1" stop-color="#2F80FF" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/>

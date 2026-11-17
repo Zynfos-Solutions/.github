@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS.COM-0B1F4D?style=for-the-badge&logo=googlechrome&logoColor=F28C28"/></a>
-  <a href="https://www.linkedin.com/company/zynfos-solutions/"><img src="https://img.shields.io/badge/LINKEDIN-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=F28C28"/></a>
-  <a href="https://www.instagram.com/zynfos/"><img src="https://img.shields.io/badge/INSTAGRAM-0B1F4D?style=for-the-badge&logo=instagram&logoColor=F28C28"/></a>
-  <a href="mailto:info@zynfos.com"><img src="https://img.shields.io/badge/EMAIL-0B1F4D?style=for-the-badge&logo=gmail&logoColor=F28C28"/></a>
+  <a href="https://zynfos.com"><img src="https://img.shields.io/badge/ZYNFOS.COM-0B1F4D?style=for-the-badge&logo=googlechrome&logoColor=4D9BFF"/></a>
+  <a href="https://www.linkedin.com/company/zynfos-solutions/"><img src="https://img.shields.io/badge/LINKEDIN-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=4D9BFF"/></a>
+  <a href="https://www.instagram.com/zynfos/"><img src="https://img.shields.io/badge/INSTAGRAM-0B1F4D?style=for-the-badge&logo=instagram&logoColor=4D9BFF"/></a>
+  <a href="mailto:info@zynfos.com"><img src="https://img.shields.io/badge/EMAIL-0B1F4D?style=for-the-badge&logo=gmail&logoColor=4D9BFF"/></a>
   <a href="https://zynfos.com/contact"><img src="https://img.shields.io/badge/FREE%20CONSULTATION-F28C28?style=for-the-badge&labelColor=0B1F4D"/></a>
 </p>
 

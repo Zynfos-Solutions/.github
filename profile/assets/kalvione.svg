@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1F4D"/><stop offset="1" stop-color="#1E2A78"/></linearGradient>
-    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#F28C28"/><stop offset=".5" stop-color="#F6A55B"/><stop offset="1" stop-color="#F28C28"/></linearGradient>
-    <radialGradient id="glow" cx=".85" cy=".2" r=".6"><stop offset="0" stop-color="#5B2DD1" stop-opacity=".45"/><stop offset="1" stop-color="#F28C28" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1F4D"/><stop offset="1" stop-color="#0E2A66"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#2F80FF"/><stop offset=".5" stop-color="#9AD0FF"/><stop offset="1" stop-color="#2F80FF"/></linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".2" r=".6"><stop offset="0" stop-color="#1F6FEB" stop-opacity=".45"/><stop offset="1" stop-color="#2F80FF" stop-opacity="0"/></radialGradient>
     <style>
       .t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
       .k{font-size:12px;letter-spacing:5px;fill:#F28C28}
